@@ -6,6 +6,9 @@
 #include<windows.h>
 using namespace std;
 
+
+int abc=0;
+
 struct student
 {
     string name,address;
